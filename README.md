@@ -1,3 +1,3 @@
 ### Hi there, I'm Gerald Diego 👋
 
-![visitor badge](https://www.linkedin.com/in/gerald-diego/)
+[![linkedin]]([your-linkedin-profile-url](https://www.linkedin.com/in/gerald-diego/)https://www.linkedin.com/in/gerald-diego/)
