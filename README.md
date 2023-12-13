@@ -34,3 +34,15 @@
 ">
     Education
 </h2>
+
+<table>
+    <tr>
+        <td><p>2017 - 2019</p></td>
+    </tr>
+    <tr>
+        <td>
+            <p>OUR LADY OF FATIMA UNIVERSITY</p>
+            <p>Senior High School</p>
+        </td>
+    </tr>
+</table>
