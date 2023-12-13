@@ -1,3 +1,3 @@
 ### Hi there, I'm Gerald Diego 👋
 
-[I'm an inline-style link](https://www.google.com)
+[![LinkedIn](https://logolook.net/wp-content/uploads/2021/06/Linkedin-Logo-2003.png)](https://www.linkedin.com/in/gerald-diego/)
