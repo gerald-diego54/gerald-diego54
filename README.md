@@ -1,4 +1,4 @@
-### Hi there 👋
+### Gerald Diego 👋
 
 <!--
 **gerald-diego54/gerald-diego54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
