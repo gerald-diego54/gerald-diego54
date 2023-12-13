@@ -1,4 +1,4 @@
-<h1 style="
+<h2 style="
     font-family: system-ui,
     -apple-system,
     BlinkMacSystemFont,
@@ -12,14 +12,14 @@
     sans-serif;
 ">
     About Me
-</h1>
+</h2>
 
 <p>
     I am hardworking and passionate job seeker with strong organizational skills eager to secure Sofware
     Developer position. Ready to help team achive company goals.
 </p>
 
-<h3 style="
+<h2 style="
     font-family: system-ui,
     -apple-system,
     BlinkMacSystemFont,
@@ -33,4 +33,4 @@
     sans-serif;
 ">
     Education
-</h3>
+</h2>
