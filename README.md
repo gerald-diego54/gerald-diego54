@@ -45,7 +45,7 @@ I'm a full stack developer with 1 year of experience. I am Hardworking and passi
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
 
 ### Github Stats
-![](https://komarev.com/ghpvc/?username=redpangilinan&style=flat)<br>
-[![redpangilinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerald-diego54&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerald-diego54&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=gerald-diego54&style=flat)<br>
+[![redpangilinan's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerald-diego54&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gerald-diego54&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gerald-diego54&theme=gruvbox)](https://git.io/streak-stats)
