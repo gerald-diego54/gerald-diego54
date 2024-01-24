@@ -8,3 +8,5 @@ I'm a full stack developer with 1 year of experience. I am Hardworking and passi
 - 🎓 Alumni of a Philippine based coding bootcamp(Kodego) own by Globe Venture Builder
 - 💡 Currently learning of basic accounting and various technologies
 - 🐕 An Aspin dog lover.
+
+![Gerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=gerald-diego54&show_icons=true&theme=transparent)
