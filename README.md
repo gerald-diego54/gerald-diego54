@@ -4,7 +4,7 @@ I'm a full stack developer with 1 year of experience. I am Hardworking and passi
 
 
 
-- 🏫 Currently going to Our Lady of Fatima University as an BS in Information Technology
+- 🏫 BS in Information Technology at Our Lady of Fatima University
 - 🎓 Alumni of a Philippine based coding bootcamp(Kodego) own by Globe Venture Builder
 - 💡 Currently learning of basic accounting and various technologies
 - 🐕 An Aspin dog lover.
