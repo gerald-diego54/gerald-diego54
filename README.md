@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-Full Stack Developer with 2+ years of experience building and maintaining scalable web applications. Experienced in frontend, backend, database systems, DevOps workflows, and API development. Passionate about writing clean, efficient, and maintainable code while improving system performance and deployment processes.
+Full Stack Developer with 2+ years of experience building and maintaining scalable web applications. Experienced in frontend and backend development, API design, and deployment workflows. Passionate about writing clean, maintainable code and improving system performance and developer experience.
 
 ---
 
@@ -22,14 +22,11 @@ React, Next.js, Angular, TypeScript, JavaScript, TailwindCSS, Bootstrap
 ### Backend Development
 Node.js, Express.js, Laravel, PHP
 
-### Databases & Caching
-MySQL, MongoDB, Redis, Prisma ORM
-
-### Authentication & APIs
-JWT Authentication, RESTful API Development
+### Database & Authentication
+MySQL, Prisma ORM, JWT Authentication
 
 ### DevOps & Deployment
-Docker, DigitalOcean, GitLab CI/CD, Nginx (basic server deployment)
+Docker, DigitalOcean, GitLab CI/CD, Nginx (basic deployment workflows)
 
 ### Tools & Environment
 Git, GitHub, NPM, Yarn, VS Code, Figma, Canva
@@ -40,31 +37,29 @@ Git, GitHub, NPM, Yarn, VS Code, Figma, Canva
 
 ### Full Stack Developer (2+ Years)
 
-- Developed and maintained **[X+] full-stack web applications**
-- Built responsive UI components using React and Angular, improving usability and performance by **[X%]**
-- Designed and developed RESTful APIs handling **[X+] requests per day**
-- Implemented authentication systems using JWT for secure user sessions
-- Optimized database queries across MySQL and MongoDB, improving response time by **[X%]**
-- Integrated Redis caching to improve application performance and reduce database load
-- Collaborated with teams using Agile methodologies and Git-based workflows
+- Developed and maintained **[X+] production web applications**
+- Built responsive UIs using React / Angular with **improved load performance by [X%]**
+- Designed and implemented REST APIs serving **[X+] requests per day**
+- Integrated authentication systems using JWT, improving security and session handling
+- Managed MySQL database schemas with optimized queries reducing response time by **[X%]**
+- Collaborated with cross-functional teams using Agile workflows
 
 ### DevOps & Deployment
 
-- Containerized applications using **Docker** for consistent development and production environments
-- Deployed and managed applications on **DigitalOcean VPS**
-- Built and maintained **GitLab CI/CD pipelines** for automated testing and deployment
-- Reduced deployment time and manual errors through CI/CD automation by **[X%]**
+- Containerized applications using **Docker** for consistent development and deployment environments
+- Deployed applications to **DigitalOcean VPS**, managing production environments
+- Configured **GitLab CI/CD pipelines** for automated build, test, and deployment processes
+- Improved deployment efficiency by reducing manual deployment steps by **[X%]**
 
 ---
 
-## 📊 Key Metrics
+## 📊 Key Metrics (Add Your Real Numbers Here)
 
-- ⚡ Improved API response time by **[X%]**
-- 🚀 Increased application performance by **[X%]**
-- 👥 Supported **[X+] users / daily requests**
-- 🧩 Delivered **[X+] production projects**
-- ⏱ Reduced deployment time by **[X%]** using CI/CD pipelines
-- 🗄 Improved database performance using Redis caching by **[X%]**
+- ⚡ Reduced API response time by **[X%]**
+- 🚀 Improved application performance by **[X%]**
+- 👥 Supported **[X+] users / requests per day**
+- 🧩 Delivered **[X+] full-stack projects**
+- ⏱ Reduced deployment time by **[X%]** using CI/CD automation
 
 ---
 
