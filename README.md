@@ -1,6 +1,6 @@
 ## 🚀 About Me
 
-Full Stack Developer with 2+ years of experience building and maintaining scalable web applications. Experienced in frontend and backend development, API design, and deployment workflows. Passionate about writing clean, maintainable code and improving system performance and developer experience.
+Full Stack Developer with 2+ years of experience building web applications using modern JavaScript frameworks and backend technologies. Passionate about writing clean, maintainable code and continuously improving development practices. Strong problem-solving and collaboration skills, eager to contribute to impactful development teams.
 
 ---
 
@@ -9,7 +9,7 @@ Full Stack Developer with 2+ years of experience building and maintaining scalab
 - 🏫 **Bachelor of Science in Information Technology**  
   Our Lady of Fatima University
 
-- 🎓 **Full Stack Development Bootcamp Graduate**  
+- 🎓 **Bootcamp Graduate (Full Stack Development)**  
   Kodego – Globe Ventures Builder (Philippines)
 
 ---
@@ -17,19 +17,32 @@ Full Stack Developer with 2+ years of experience building and maintaining scalab
 ## 🛠 Technical Skills
 
 ### Frontend Development
-React, Next.js, Angular, TypeScript, JavaScript, TailwindCSS, Bootstrap
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Backend Development
-Node.js, Express.js, Laravel, PHP
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-### Database & Authentication
-MySQL, Prisma ORM, JWT Authentication
+### Database & API
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### DevOps & Deployment
-Docker, DigitalOcean, GitLab CI/CD, Nginx (basic deployment workflows)
-
-### Tools & Environment
-Git, GitHub, NPM, Yarn, VS Code, Figma, Canva
+### Tools & Development Environment
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -37,29 +50,12 @@ Git, GitHub, NPM, Yarn, VS Code, Figma, Canva
 
 ### Full Stack Developer (2+ Years)
 
-- Developed and maintained **[X+] production web applications**
-- Built responsive UIs using React / Angular with **improved load performance by [X%]**
-- Designed and implemented REST APIs serving **[X+] requests per day**
-- Integrated authentication systems using JWT, improving security and session handling
-- Managed MySQL database schemas with optimized queries reducing response time by **[X%]**
-- Collaborated with cross-functional teams using Agile workflows
-
-### DevOps & Deployment
-
-- Containerized applications using **Docker** for consistent development and deployment environments
-- Deployed applications to **DigitalOcean VPS**, managing production environments
-- Configured **GitLab CI/CD pipelines** for automated build, test, and deployment processes
-- Improved deployment efficiency by reducing manual deployment steps by **[X%]**
-
----
-
-## 📊 Key Metrics (Add Your Real Numbers Here)
-
-- ⚡ Reduced API response time by **[X%]**
-- 🚀 Improved application performance by **[X%]**
-- 👥 Supported **[X+] users / requests per day**
-- 🧩 Delivered **[X+] full-stack projects**
-- ⏱ Reduced deployment time by **[X%]** using CI/CD automation
+- Developed and maintained full-stack web applications using React, Angular, Node.js, and Laravel
+- Built responsive and user-friendly interfaces using modern UI frameworks
+- Designed and integrated RESTful APIs with secure authentication (JWT)
+- Managed database operations using MySQL and Prisma ORM
+- Collaborated with teams to deliver scalable and maintainable solutions
+- Participated in agile development workflows and code reviews
 
 ---
 
