@@ -1,72 +1,110 @@
-## 🚀 About Me
 
-Full Stack Developer with 2+ years of experience building web applications using modern JavaScript frameworks and backend technologies. Passionate about writing clean, maintainable code and continuously improving development practices. Strong problem-solving and collaboration skills, eager to contribute to impactful development teams.
+# Hi, I'm Gerald Diego 👋
 
----
+### Full-Stack Developer | React, Next.js, Node.js, Laravel & DevOps
 
-## 🎓 Education
+Full-Stack Developer with **2+ years of experience** building scalable web applications, integrating APIs, and deploying applications for clients in Canada and the USA. Experienced in modern web technologies, Docker, CI/CD, and cloud infrastructure.
 
-- 🏫 **Bachelor of Science in Information Technology**  
-  Our Lady of Fatima University
-
-- 🎓 **Bootcamp Graduate (Full Stack Development)**  
-  Kodego – Globe Ventures Builder (Philippines)
-
----
-
-## 🛠 Technical Skills
-
-### Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-### Database & API
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### Tools & Development Environment
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+- 📍 Based in Valenzuela City, Metro Manila, Philippines
+- 💼 Experience working with international clients
+- 🌐 Portfolio: [geraldpro.online](https://www.geraldpro.online)
+- 💼 LinkedIn: [gerald-diego](https://linkedin.com/in/gerald-diego)
+- 📧 Email: geralddiego42@gmail.com
 
 ---
 
-## 💼 Experience
+## 🛠️ Tech Stack
 
-### Full Stack Developer (2+ Years)
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
-- Developed and maintained full-stack web applications using React, Angular, Node.js, and Laravel
-- Built responsive and user-friendly interfaces using modern UI frameworks
-- Designed and integrated RESTful APIs with secure authentication (JWT)
-- Managed database operations using MySQL and Prisma ORM
-- Collaborated with teams to deliver scalable and maintainable solutions
-- Participated in agile development workflows and code reviews
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 💼 Professional Experience
 
-![](https://komarev.com/ghpvc/?username=gerald-diego54&style=flat)
+### Full-Stack Developer — Contractual
+**Extanet, Inc. | Ontario, Canada**  
+*July 2025 – September 2026*
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerald-diego54&theme=gruvbox&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+- Developed a flight booking web application integrating the Duffel API and Stripe payments.
+- Maintained staging and production environments on DigitalOcean.
+- Built a Docker-based GitLab CI/CD pipeline to reduce manual deployment steps.
+- Collaborated with an international development team to deliver application features.
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gerald-diego54&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+**Technologies:** React, Next.js, Node.js, Express, MongoDB, Redis, Docker, Stripe, Duffel API, DigitalOcean
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=gerald-diego54&theme=gruvbox)](https://git.io/streak-stats)
+### Full-Stack Developer Intern
+**B612 Design Innovation Labs, Inc. | Philippines**  
+*February 2026 – May 2026*
+
+- Designed mobile application UI/UX using AI-assisted development tools.
+- Integrated analytics to track user engagement metrics.
+- Implemented Maya Business payment integration.
+- Deployed an Android application from a web-based codebase.
+
+**Technologies:** AI-assisted development tools, UI/UX, Maya Business, mobile application deployment
+
+### Software Developer — Contractual
+**UBP LLC. dba Cloutchain | California, USA**  
+*July 2022 – April 2023*
+
+- Developed web applications using Next.js and React.
+- Designed RESTful APIs using Node.js, Express, TypeScript, and Prisma.
+- Implemented responsive interfaces based on Figma designs.
+- Participated in Agile development ceremonies and sprint planning.
+
+**Technologies:** React, Next.js, Node.js, Express, TypeScript, Prisma
+
+### Software Engineer
+**Humedit Philippines | Cebu City, Philippines**  
+*March 2022 – July 2022*
+
+- Developed and enhanced a SaaS web application using Angular.
+- Implemented new features and resolved backlog issues.
+- Collaborated with QA, product, and development teams across multiple sprints.
+
+**Technologies:** Angular, JavaScript, SaaS development, Agile
+
+---
+
+## 🎓 Education & Certifications
+
+- **BS in Information Technology** — Our Lady of Fatima University (2019–2026)
+- **National Certificate III in Programming (Java)** — JOYSIS TECH VOC Inc. and TESDA (2026)
+- **Certificate of Training in Full-Stack Web Development** — Kodego (2021–2022)
+- **Information Technology Specialist — Python and Networking** — Certiport
+- **Cisco Certified Support Technician — Cybersecurity** — Cisco
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to opportunities involving full-stack development, web application development, API integration, and cloud deployment.
+
+- 🌐 [Portfolio](https://www.geraldpro.online)
+- 💼 [LinkedIn](https://linkedin.com/in/gerald-diego)
+- 📧 [Email](mailto:geralddiego42@gmail.com)
